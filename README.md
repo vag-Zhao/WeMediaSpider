@@ -36,7 +36,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/你的用户名/WeMediaSpider.git
+git clone https://github.com/vag-Zhao/WeMediaSpider.git
 cd WeMediaSpider
 
 # 安装依赖包
@@ -181,8 +181,8 @@ WeMediaSpider/
 
 如有问题或建议，欢迎通过以下方式联系：
 
-- 提交 [Issue](https://github.com/你的用户名/WeMediaSpider/issues)
-- 发送邮件到：your.email@example.com
+- 提交 [Issue](https://github.com/vag-Zhao/WeMediaSpider/issues)
+- 发送邮件到：zgs3344@hunnu.edu.cn
 
 ---
 

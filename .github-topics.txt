@@ -1,0 +1,15 @@
+# WeMediaSpider
+
+wechat
+wechat-spider
+pyqt6
+web-scraper
+gui-application
+selenium
+async
+fluent-design
+article-scraper
+content-crawler
+data-collection
+wechat-official-account
+chinese
