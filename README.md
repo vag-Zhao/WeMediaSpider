@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo](icons8-微信-64.png)
+![Logo](gnivu-cfd69-001.ico)
 
 一个功能强大的微信公众号文章爬虫工具，支持图形界面操作，让数据采集变得简单高效。
 
