@@ -1,0 +1,7 @@
+{
+  "max_pages": 1,
+  "request_interval": 10,
+  "max_workers": 5,
+  "include_content": true,
+  "cache_expire_hours": 96
+}
